@@ -26,7 +26,7 @@ This lab is maintained by members of Red Hat's Nordic Solution Architect team.
 * Magnus Glantz ([@mglantz](https://github.com/mglantz))
 
 ## Contributing
-This lab is an open source (GPL 3.0) project, so if you find any problems with it, feel free to open up an issue or send a pull request. For more information about contributing to this project, please see:
+This lab is an open source (GPL 3.0) project, so if you find any problems with it, feel free to open up an issue or send a pull request. For more information about contributing to this project, please see :
 
 * [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
